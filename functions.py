@@ -7,7 +7,6 @@ import numpy as np
 import logging
 from torch.autograd import Variable
 import time
-from mi_spike import *
 from sklearn.metrics import mutual_info_score
 
 

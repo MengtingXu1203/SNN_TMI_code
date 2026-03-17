@@ -21,8 +21,6 @@ The Following Setup is tested and it is working:
 
 - The 0-th and 1-th dimension of snn layer's input and output are batch-dimension and time-dimension.
 
-- Mutual information calculation is in `mi_spike.py`
-
 ## Training \& Testing
 
 - CIFAR100, VGGSNN
